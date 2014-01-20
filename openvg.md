@@ -1,6 +1,6 @@
 ---
-project:     openvg
-tagline:     openvg bindings
+project: openvg
+tagline: OpenVG C API
 ---
 
 No doc yet, please see the code.
