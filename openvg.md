@@ -1,5 +1,4 @@
 ---
-project: openvg
 tagline: OpenVG C API
 ---
 
